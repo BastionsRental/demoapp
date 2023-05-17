@@ -1,0 +1,6 @@
+body {
+  background-color: black !important;
+  background-image: url("/bbblurry.svg") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
